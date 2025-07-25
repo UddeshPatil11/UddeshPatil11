@@ -1,11 +1,8 @@
 <!-- GitHub Profile README for Uddesh Patil -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Uddesh+Patil+%F0%9F%91%8B;Building+AI-powered+SaaS+Platforms;Engineering+Systems+for+Humans+and+Machines"/>
-</h1>
+<h1 align="center">Hey there! I'm <strong>Uddesh Patil</strong> 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/UddeshPatil11/UddeshPatil11/blob/main/assets/ai-banner.gif" width="100%" alt="AI Banner" />
+  🚀 Software Engineer | 🤖 AI Product Builder | 💡 System Design Enthusiast
 </p>
 
 ---
