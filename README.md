@@ -1,26 +1,124 @@
-<h1 align="center">Hi 👋, I'm Uddesh Patil</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=uddeshpatil11&label=Profile%20views&color=0e75b6&style=flat" alt="uddeshpatil11" /> </p>
-<img align="center" alt="Coding" width="1000" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uddeshpatil11" alt="uddeshpatil11" /></a> </p>
+<!-- GitHub Profile README for Uddesh Patil -->
 
-- 💬 Ask me about **python,react,javascript,machine learning,artificial intelligence**
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Uddesh+Patil+%F0%9F%91%8B;Building+AI-powered+SaaS+Platforms;Engineering+Systems+for+Humans+and+Machines"/>
+</h1>
 
-- 📫 How to reach me **uddeshpatil181@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/uddeshpatil1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uddeshpatil1999" height="30" width="40" /></a>
-<a href="https://kaggle.com/uddeshpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="uddeshpatil" height="30" width="40" /></a>
-<a href="https://instagram.com/___uddesh___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___uddesh___" height="30" width="40" /></a>
-<a href="https://medium.com/@uddeshpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@uddeshpatil" height="30" width="40" /></a>
+  <img src="https://github.com/UddeshPatil11/UddeshPatil11/blob/main/assets/ai-banner.gif" width="100%" alt="AI Banner" />
 </p>
-<br>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uddeshpatil11&show_icons=true&locale=en&layout=compact" alt="uddeshpatil11" /></p>
+## 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uddeshpatil11&show_icons=true&locale=en" alt="uddeshpatil11" /></p>
+- 🧑‍💻 Currently building **AI-first SaaS platforms** for real-world industries
+- 🔍 Passionate about **System Design**, **LLMs**, and solving hard problems
+- 🌍 Bridging tech + usability via **AI + Systems Engineering**
+- 📫 Email me at: [work.uddeshpatil@gmail.com](mailto:work.uddeshpatil@gmail.com)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uddeshpatil11&" alt="uddeshpatil11" /></p>
+---
+
+## 🎯 Vision & Philosophy
+
+> _"Engineering intelligent systems to simplify complexity and empower humans."_
+
+- 🚀 Exploring **Agentic AI** and **LLMs** for product automation
+- 🧱 Designing **scalable**, **modular**, **robust** system architectures
+- ⚙️ Obsessed with **MLOps**, **infra reliability**, and developer tooling
+- 🎯 Mission: _Craft impactful AI-first products with real-world value_
+
+---
+
+## ⚙️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,html,css,tailwind,shadcn,mysql,mongodb,firebase,aws,docker,redis,py,figma,git,github,postman,vscode" />
+</p>
+
+### 🧠 AI/ML Toolbox
+```
+Agentic AI | LLMs | NLP | Deep Learning | Firebase ML | Gemini CLI | Google Colab | LangChain | Hugging Face
+```
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UddeshPatil11&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=UddeshPatil11&theme=tokyonight" height="160"/>
+</p>
+
+### 🔥 Contribution Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UddeshPatil11&theme=react-dark&area=true" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=UddeshPatil11&theme=onedark&no-frame=true&row=1" />
+</p>
+
+---
+
+## 🧬 Advanced Insights
+
+> GitHub’s inbuilt graphs (automatically available on profile):
+- 📊 **[Code Frequency](https://github.com/UddeshPatil11/UddeshPatil11/graphs/code-frequency)**
+- 🧩 **[Dependency Graph](https://github.com/UddeshPatil11/UddeshPatil11/network/dependencies)**
+- 🍴 **[Forks & Network](https://github.com/UddeshPatil11/UddeshPatil11/network/members)**
+- 📜 **[Commit History](https://github.com/UddeshPatil11/UddeshPatil11/commits/main)**
+
+---
+
+## 🧪 AI Code Sandbox
+
+Try my AI components live on Replit:  
+🔗 https://replit.com/@UddeshPatil11/Little-AI-Chatbot  
+💡 More AI tools and experiments coming soon!
+
+---
+
+## 📘 Auto Blog Publishing
+
+- ✍️ Blog: Coming soon via [TechWidth](https://techwidth.com)
+- 🔁 Auto-sync Medium posts: Powered by GitHub Actions (`.github/workflows/blog-sync.yml`)
+```yaml
+name: Fetch Latest Medium Blogs
+on:
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@uddeshpatil"
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:work.uddeshpatil@gmail.com"><img alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/uddeshpatil1199" target="_blank"><img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+  &nbsp;
+  <a href="https://medium.com/@uddeshpatil" target="_blank"><img alt="Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/></a>
+  &nbsp;
+  <a href="https://www.instagram.com/uddesh.patil" target="_blank"><img alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
+</p>
+
+---
+
+## 📌 Quote That Drives Me
+
+> _"Code that doesn’t scale is like a building without a foundation. Build for now. Engineer for forever."_
+
+---
